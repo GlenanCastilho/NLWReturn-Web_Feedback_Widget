@@ -22,7 +22,8 @@
 
 <ul>
   <li>Git</li>
-  <li></li>
+  <li>Node.js</li>
+  <li>Yarn</li>
 </ul>
 
 <br>
