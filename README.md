@@ -11,9 +11,12 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li> 
+  <li>Axios</li>
+  <li>Phosphor React</li>
+  <li>Tailwindcss</li>
+  <li>Typescript</li>
+  <li>Vite</li>
+  <li>Html2canvas</li>
 </ul>
 
 <br>
