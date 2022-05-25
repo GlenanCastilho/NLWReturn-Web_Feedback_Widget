@@ -32,3 +32,16 @@
 <br>
    
 <h1>🚀 Iniciando o projeto</h1>
+
+<h4>
+  Instalar as dependências:
+  <br>
+  $ yarn
+  
+  <br>
+  <br>
+  
+  Rodar a aplicação:
+  <br>
+  $ yarn 
+</h4>
